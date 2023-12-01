@@ -1,6 +1,9 @@
 # Human-Emotion-Detection-using-Deep-Learning
 This project implements a deep learning model for the detection of human emotions in images. It uses Convolutional Neural Networks (CNNs) to classify images into three emotional categories: angry, happy, and sad.
 
+![image](https://github.com/biswadeep-roy/Human-Emotion-Detection-using-Deep-Learning/assets/74821633/fbb5eabe-0dc9-46eb-92fb-b049ac031958)
+
+
 ## Dataset
 The dataset used in this project is the "Human Emotions Dataset" available on Kaggle. It consists of labeled images representing different emotions.
 
